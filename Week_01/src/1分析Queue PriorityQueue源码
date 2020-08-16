@@ -1,0 +1,3 @@
+分析 Queue 和 Priority Queue 的源码
+queue java 8
+PriorityQueue 通过定义Comparator（），改变队列排序，实现优先队列；
